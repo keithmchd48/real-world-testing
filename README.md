@@ -1,5 +1,7 @@
 # Intro to State Management
 
+Based on learning resourses by Vue Mastery. [Find the lessons here](https://www.vuemastery.com/courses/real-world-testing/)
+
 ## Project setup
 ```
 npm install
